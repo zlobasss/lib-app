@@ -1,0 +1,90 @@
+/* styles/Home.module.css */
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.title {
+    text-align: center;
+    color: #333;
+}
+
+.addButton {
+    background-color: #28a745; /* Цвет для кнопки добавления */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-bottom: 20px; /* Отступ снизу для разделения с таблицей */
+}
+
+.addButton:hover {
+    background-color: #218838; /* Цвет для кнопки добавления при наведении */
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    border: 2px solid #000; /* Обводка таблицы */
+}
+
+.headerCell {
+    border: 1px solid #000; /* Обводка для заголовков */
+    padding: 8px;
+    text-align: left;
+    background-color: #f2f2f2; /* Цвет фона для заголовков */
+}
+
+.cell {
+    border: 1px solid #000; /* Обводка для ячеек */
+    padding: 8px;
+    text-align: left;
+    background-color: white; /* Цвет фона для ячеек */
+}
+
+.evenRow {
+    background-color: #f9f9f9; /* Цвет фона для четных строк */
+}
+
+.oddRow {
+    background-color: #ffffff; /* Цвет фона для нечетных строк */
+}
+
+.tableRow:hover {
+    background-color: #f1f1f1; /* Цвет фона при наведении */
+}
+
+.button {
+    background-color: #0070f3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-right: 5px; /* Отступ между кнопками */
+}
+
+.button:hover {
+    background-color: #005bb5;
+}
+
+.deleteButton {
+    background-color: #ff4d4d; /* Цвет для кнопки Delete */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.deleteButton:hover {
+    background-color: #cc0000; /* Цвет для кнопки Delete при наведении */
+}
