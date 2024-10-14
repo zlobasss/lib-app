@@ -1,0 +1,6 @@
+com/example/libservice/service/BookService.class
+com/example/libservice/repository/BookRepo.class
+com/example/libservice/entity/Book.class
+com/example/libservice/LibServiceApplication.class
+com/example/libservice/controller/BookController.class
+com/example/libservice/config/WebConfig.class

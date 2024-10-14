@@ -1,0 +1,6 @@
+/home/serge/IdeaProjects/lib-service/src/main/java/com/example/libservice/LibServiceApplication.java
+/home/serge/IdeaProjects/lib-service/src/main/java/com/example/libservice/config/WebConfig.java
+/home/serge/IdeaProjects/lib-service/src/main/java/com/example/libservice/controller/BookController.java
+/home/serge/IdeaProjects/lib-service/src/main/java/com/example/libservice/entity/Book.java
+/home/serge/IdeaProjects/lib-service/src/main/java/com/example/libservice/repository/BookRepo.java
+/home/serge/IdeaProjects/lib-service/src/main/java/com/example/libservice/service/BookService.java
